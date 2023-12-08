@@ -1,4 +1,4 @@
-#Presentación de Proyecto Final de Sistema Grafico para Desarrollo de Software
+# Presentación de Proyecto Final de Sistema Grafico para Desarrollo de Software.
 Giovanni Buglione
 1LS242
 
